@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://harishmahadhev.github.io/csb-nunhk/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://harishmahadhev.github.io/csb-nunhk/static/js/main.f2725448.chunk.js",
+    "main.js.map": "https://harishmahadhev.github.io/csb-nunhk/static/js/main.f2725448.chunk.js.map",
+    "runtime-main.js": "https://harishmahadhev.github.io/csb-nunhk/static/js/runtime-main.e0e2933c.js",
+    "runtime-main.js.map": "https://harishmahadhev.github.io/csb-nunhk/static/js/runtime-main.e0e2933c.js.map",
+    "static/js/2.ad2a3a18.chunk.js": "https://harishmahadhev.github.io/csb-nunhk/static/js/2.ad2a3a18.chunk.js",
+    "static/js/2.ad2a3a18.chunk.js.map": "https://harishmahadhev.github.io/csb-nunhk/static/js/2.ad2a3a18.chunk.js.map",
+    "index.html": "https://harishmahadhev.github.io/csb-nunhk/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://harishmahadhev.github.io/csb-nunhk/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ad2a3a18.chunk.js.LICENSE.txt": "https://harishmahadhev.github.io/csb-nunhk/static/js/2.ad2a3a18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0e2933c.js",
+    "static/js/2.ad2a3a18.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f2725448.chunk.js"
+  ]
+}
